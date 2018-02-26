@@ -1,0 +1,25 @@
+{
+  "name": "bamazon-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cansu2/bamazon-homework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cansu2/bamazon-homework/issues"
+  },
+  "homepage": "https://github.com/cansu2/bamazon-homework#readme",
+  "dependencies": {
+    "inquirer": "^5.1.0",
+    "mysql": "^2.15.0",
+    "node-mysql-nesting": "0.0.3",
+    "sql": "^0.78.0"
+  }
+}
